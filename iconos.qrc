@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Abrir.ico</file>
+        <file>Acerca de.ico</file>
+        <file>Copiar.ico</file>
+        <file>Cortar.ico</file>
+        <file>Guardar como.ico</file>
+        <file>Pegar.ico</file>
+        <file>Quitar.ico</file>
+    </qresource>
+</RCC>
